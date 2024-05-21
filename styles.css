@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f4f4;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 4px solid #a6c4ff;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #206bff;
+}
+
+.meal {
+  margin-bottom: 20px;
+}
+
+.meal h2 {
+  margin-top: 0;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.meal p {
+  margin: 0;
+}
+
+span{
+  display: inline-block;
+  width: 90px;
+  border-radius: 10px;
+  border: 2px solid #a6c4ff;
+  font-size: x-large;
+  font-weight: 900;
+  color:#435b47;
+  background-color: #e2ebff;
+  margin-bottom: 7px;
+}
